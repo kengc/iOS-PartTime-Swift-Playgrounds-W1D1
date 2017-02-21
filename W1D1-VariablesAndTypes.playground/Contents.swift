@@ -109,5 +109,6 @@ greeting.lowercased()
 print(schoolName.lowercased())
 print(schoolName.uppercased())
 
+//test change added here 
 
 //: THE END
